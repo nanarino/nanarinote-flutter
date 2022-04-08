@@ -1,6 +1,6 @@
 # 安装dart环境
 
-## windows
+## Windows
 
 利用choco安装dart SDK for windows：
 ```bash
@@ -70,4 +70,4 @@ C:\Users\Administrator>dart -v
   }
 ```
 
-vscode会自己提示需要安装的插件，以提供提示，格式化
+vscode会自己提示需要安装的插件，以提供提示、格式化
