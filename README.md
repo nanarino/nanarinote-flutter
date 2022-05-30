@@ -26,3 +26,8 @@ yarn docs:dev
 ![鈴仙・優曇華院・イナバ](./docs/public/EvJiiArXYAEyyuL.png)
 
 封面图来自 くまもと先生（Twitter@skmmt3）
+
+
+## 参考
+
+[官方中文文档](https://dart.cn/)

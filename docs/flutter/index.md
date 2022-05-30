@@ -46,18 +46,28 @@ brew install dart
 
 
 ## 验证安装成功
+
+首次安装完成会这样显示
+
 ```bash
-C:\Users\Administrator>dart -v
-  ╔════════════════════════════════════════════════════════════════════════════╗
-  ║ The Dart tool uses Google Analytics to report feature usage statistics     ║
-  ║ and to send basic crash reports. This data is used to help improve the     ║
-  ║ Dart platform and tools over time.                                         ║
-  ║                                                                            ║
-  ║ To disable reporting of analytics, run:                                    ║
-  ║                                                                            ║
-  ║   dart --disable-analytics                                                 ║
-  ║                                                                            ║
-  ╚════════════════════════════════════════════════════════════════════════════╝
+C:\Users\Administrator>dart
+  ╔════════════════════════════════════════════════════════════════════════╗
+  ║ The Dart tool uses Google Analytics to report feature usage statistics ║
+  ║ and to send basic crash reports. This data is used to help improve the ║
+  ║ Dart platform and tools over time.                                     ║
+  ║                                                                        ║
+  ║ To disable reporting of analytics, run:                                ║
+  ║                                                                        ║
+  ║   dart --disable-analytics                                             ║
+  ║                                                                        ║
+  ╚════════════════════════════════════════════════════════════════════════╝
+```
+
+或者直接显示版本
+
+```bash
+C:\Users\Administrator>dart --version
+Dart SDK version: 2.17.1 (stable) (Tue May 17 17:58:21 2022 +0000) on "windows_x64"
 ```
 
 ## 运行helloworld
